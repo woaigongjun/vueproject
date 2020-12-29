@@ -1,0 +1,133 @@
+.container{
+    width: 100%;
+    height:auto;
+    padding: 0;
+    margin: 0 auto;
+}
+.content{
+    max-width:1200px;
+    margin: 0 auto;
+}
+.info{
+    margin-top: 60px;
+    text-align: left;
+}
+.title{
+    color:#ff5a0b ;
+}
+.message{
+    padding-left: 0;
+}
+.message-item {
+    list-style-type: none !important;
+    text-align: left;
+    line-height: 40px;
+    font-size: 14px;
+}
+.userInfo{
+    margin: 30px 0;
+}
+.avater{
+    border-radius: 50%;
+    vertical-align: bottom;
+}
+.loginInfo{
+    text-align: left;
+    display: inline-block;
+    line-height: 24px;
+}
+.nameInfo{
+    font-size:14px;
+    margin: 0;
+}
+.moreInfo{
+    color: #ff5a0b;
+    font-size: 12px;
+    margin: 0;
+}
+.orgBtn{
+    background:#ff5a0b ;
+    color: #fff;
+    border: none;
+}
+.orgBtn:hover{
+    background:#ff5a0b ;
+    color: #fff;
+    border: none;
+}
+/*****************************猜我喜欢*****************************/
+.guess {
+    width: 100%;
+    height: auto;
+    margin: 15px auto;
+    background-color: #fff;
+}
+.topHeader {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #ff5a0b;
+}
+.topHeader h5{
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 4px;
+}
+.guess-content{
+    margin-top: 20px;
+}
+.goodImg{
+
+}
+.goodTitle{
+    text-align: left;
+    color:#0d89e2 ;
+    margin: 10px 0;
+}
+.priceItem{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+.price{
+    color: red;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 600;
+}
+.priceNum{
+    font-size: 24px;
+}
+.simBtn{
+    background: #c2c2c2;
+    border: none;
+    font-size: 12px;
+    padding: 8px 16px;
+}
+
+/*****************************猜我喜欢*****************************/
+/*****************************置顶*****************************/
+.toTop{
+    position: fixed;
+    right: 200px;
+    bottom: 20px;
+    background: #fff;
+    width: 74px;
+    height: 74px;
+    line-height: 74px;
+    border-radius: 50%;
+    border: 1px solid #878585;
+}
+.toTop a{
+    display: block;
+}
+.toTop i{
+    font-size: 36px;
+    vertical-align: middle;
+    text-align: center;
+    color: #878585;
+}
+/*****************************置顶*****************************/
+

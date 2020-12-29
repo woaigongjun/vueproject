@@ -1,0 +1,49 @@
+.container{
+    width: 100%;
+    height:auto;
+    padding: 0;
+    margin: 0 auto;
+}
+.content{
+    max-width:1200px;
+    margin: 0 auto;
+}
+.cartList{
+    margin: 20px 0;
+}
+.is-leaf{
+    background: #e2e2e2!important;
+    color: #333 !important;
+}
+.el-table th,.el-table td{
+    text-align: center!important;
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+    background: #e2e2e2;
+    align-items: center;
+    padding-left: 20px;
+}
+.total .right{
+    display: flex;
+}
+.total .right p{
+    margin-left: 20px;
+    font-size: 12px;
+}
+.total .right p span{
+    color: #ff9a12;
+    font-size: 16px;
+    margin: 0 6px;
+}
+.payBtn{
+    margin-left: 20px;
+    background: #ff4707;
+    color: #fff;
+}
+.payBtn:hover{
+    margin-left: 20px;
+    background: #ff4707;
+    color: #fff;
+}

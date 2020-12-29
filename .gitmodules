@@ -1,0 +1,3 @@
+[submodule "core"]
+	path = core
+	url = http://dev.mycyberstar.com/bitbucket/scm/hgwlfron/core.git
